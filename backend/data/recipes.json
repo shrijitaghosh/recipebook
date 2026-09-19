@@ -1,0 +1,838 @@
+[
+  {
+    "id": "masala-egg-bhurji",
+    "name": "Masala Egg Bhurji",
+    "emoji": "🍳",
+    "diet": "eggetarian",
+    "meal_type": "breakfast",
+    "calories": 285,
+    "time_minutes": 15,
+    "servings": 1,
+    "short_description": "Spiced scrambled eggs with onion, tomato and green chilli.",
+    "ingredients": [
+      { "name": "eggs", "quantity": "3 large" },
+      { "name": "onion", "quantity": "1 medium, chopped" },
+      { "name": "tomato", "quantity": "1 medium, chopped" },
+      { "name": "green chilli", "quantity": "1, minced" },
+      { "name": "oil", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "to taste" },
+      { "name": "turmeric", "quantity": "1/4 tsp" }
+    ],
+    "instructions": [
+      "Heat oil in a pan over medium heat.",
+      "Add onion and cook until translucent, about 3 minutes.",
+      "Add tomato and green chilli, cook until soft.",
+      "Add turmeric and salt, stir well.",
+      "Crack in the eggs and scramble until just set.",
+      "Serve hot with toast or roti."
+    ]
+  },
+  {
+    "id": "aloo-tomato-masala",
+    "name": "Aloo Tomato Masala",
+    "emoji": "🥔",
+    "diet": "vegetarian",
+    "meal_type": "lunch",
+    "calories": 320,
+    "time_minutes": 25,
+    "servings": 2,
+    "short_description": "Comforting potato and tomato curry with warming spices.",
+    "ingredients": [
+      { "name": "potato", "quantity": "3 medium, cubed" },
+      { "name": "tomato", "quantity": "2 medium, pureed" },
+      { "name": "onion", "quantity": "1 medium, chopped" },
+      { "name": "garlic", "quantity": "3 cloves, minced" },
+      { "name": "ginger", "quantity": "1 inch, grated" },
+      { "name": "cumin seeds", "quantity": "1 tsp" },
+      { "name": "coriander powder", "quantity": "1 tsp" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Heat oil and splutter cumin seeds.",
+      "Add onion, garlic and ginger, saute until golden.",
+      "Add tomato puree and cook until oil separates.",
+      "Add potato, coriander powder and salt.",
+      "Add a splash of water, cover and simmer 15 minutes until potatoes are tender.",
+      "Garnish and serve with rice or roti."
+    ]
+  },
+  {
+    "id": "chicken-stir-fry",
+    "name": "Ginger Garlic Chicken Stir Fry",
+    "emoji": "🍗",
+    "diet": "non-vegetarian",
+    "meal_type": "dinner",
+    "calories": 410,
+    "time_minutes": 20,
+    "servings": 2,
+    "short_description": "Quick weeknight stir fry with chicken, carrots and corn.",
+    "ingredients": [
+      { "name": "chicken", "quantity": "300g, sliced" },
+      { "name": "carrot", "quantity": "1, julienned" },
+      { "name": "corn", "quantity": "1/2 cup" },
+      { "name": "garlic", "quantity": "3 cloves, minced" },
+      { "name": "ginger", "quantity": "1 inch, minced" },
+      { "name": "onion", "quantity": "1, sliced" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Heat oil in a wok over high heat.",
+      "Add garlic and ginger, stir for 30 seconds.",
+      "Add chicken and cook until browned, about 6 minutes.",
+      "Add onion, carrot and corn, stir fry 5 minutes.",
+      "Season with salt and serve hot."
+    ]
+  },
+  {
+    "id": "banana-milk-smoothie",
+    "name": "Banana Milk Smoothie",
+    "emoji": "🍌",
+    "diet": "vegetarian",
+    "meal_type": "breakfast",
+    "calories": 210,
+    "time_minutes": 5,
+    "servings": 1,
+    "short_description": "A quick creamy smoothie to start the day.",
+    "ingredients": [
+      { "name": "banana", "quantity": "1 large" },
+      { "name": "milk", "quantity": "1 cup" },
+      { "name": "yogurt", "quantity": "2 tbsp" }
+    ],
+    "instructions": [
+      "Peel and slice the banana.",
+      "Blend banana, milk and yogurt until smooth.",
+      "Pour into a glass and serve chilled."
+    ]
+  },
+  {
+    "id": "vegetable-fried-rice",
+    "name": "Vegetable Fried Rice",
+    "emoji": "🍚",
+    "diet": "vegetarian",
+    "meal_type": "dinner",
+    "calories": 380,
+    "time_minutes": 20,
+    "servings": 2,
+    "short_description": "Classic fried rice loaded with carrots, corn and spinach.",
+    "ingredients": [
+      { "name": "rice", "quantity": "2 cups, cooked" },
+      { "name": "carrot", "quantity": "1, diced" },
+      { "name": "corn", "quantity": "1/2 cup" },
+      { "name": "spinach", "quantity": "1 cup, chopped" },
+      { "name": "onion", "quantity": "1, chopped" },
+      { "name": "garlic", "quantity": "2 cloves, minced" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Heat oil in a wok, saute garlic and onion.",
+      "Add carrot and corn, stir fry 3 minutes.",
+      "Add spinach and cook until wilted.",
+      "Add cooked rice and salt, toss well over high heat.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "cheese-toast",
+    "name": "Cheesy Garlic Toast",
+    "emoji": "🧀",
+    "diet": "vegetarian",
+    "meal_type": "snack",
+    "calories": 240,
+    "time_minutes": 10,
+    "servings": 1,
+    "short_description": "Crispy bread with melted cheese and garlic.",
+    "ingredients": [
+      { "name": "bread", "quantity": "2 slices" },
+      { "name": "cheese", "quantity": "1/2 cup, grated" },
+      { "name": "garlic", "quantity": "1 clove, minced" },
+      { "name": "oil", "quantity": "1 tsp" }
+    ],
+    "instructions": [
+      "Preheat a pan or oven to medium heat.",
+      "Mix cheese with minced garlic.",
+      "Spread onto bread slices.",
+      "Toast until cheese melts and bread is golden.",
+      "Serve warm."
+    ]
+  },
+  {
+    "id": "lentil-soup",
+    "name": "Comforting Lentil Soup",
+    "emoji": "🫘",
+    "diet": "vegetarian",
+    "meal_type": "lunch",
+    "calories": 290,
+    "time_minutes": 30,
+    "servings": 3,
+    "short_description": "A hearty, protein-rich lentil soup with garlic and spices.",
+    "ingredients": [
+      { "name": "lentils", "quantity": "1 cup" },
+      { "name": "onion", "quantity": "1, chopped" },
+      { "name": "tomato", "quantity": "1, chopped" },
+      { "name": "garlic", "quantity": "3 cloves, minced" },
+      { "name": "ginger", "quantity": "1 inch, grated" },
+      { "name": "cumin seeds", "quantity": "1 tsp" },
+      { "name": "oil", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Rinse lentils and boil with water until soft, about 15 minutes.",
+      "In a separate pan, heat oil and splutter cumin seeds.",
+      "Add onion, garlic and ginger, saute until golden.",
+      "Add tomato and cook until soft.",
+      "Pour the tempering into the cooked lentils.",
+      "Season with salt and simmer 5 minutes."
+    ]
+  },
+  {
+    "id": "spinach-omelette",
+    "name": "Spinach Cheese Omelette",
+    "emoji": "🍳",
+    "diet": "eggetarian",
+    "meal_type": "breakfast",
+    "calories": 260,
+    "time_minutes": 12,
+    "servings": 1,
+    "short_description": "Fluffy omelette packed with spinach and melted cheese.",
+    "ingredients": [
+      { "name": "eggs", "quantity": "2 large" },
+      { "name": "spinach", "quantity": "1/2 cup, chopped" },
+      { "name": "cheese", "quantity": "2 tbsp, grated" },
+      { "name": "onion", "quantity": "2 tbsp, chopped" },
+      { "name": "oil", "quantity": "1 tsp" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Whisk eggs with salt in a bowl.",
+      "Heat oil in a nonstick pan.",
+      "Saute onion and spinach until wilted.",
+      "Pour in whisked eggs, tilt pan to spread evenly.",
+      "Sprinkle cheese, fold, and cook until set.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "chicken-curry",
+    "name": "Home-Style Chicken Curry",
+    "emoji": "🍛",
+    "diet": "non-vegetarian",
+    "meal_type": "lunch",
+    "calories": 450,
+    "time_minutes": 40,
+    "servings": 3,
+    "short_description": "Rich, spiced chicken curry simmered with tomato and onion.",
+    "ingredients": [
+      { "name": "chicken", "quantity": "500g" },
+      { "name": "onion", "quantity": "2, sliced" },
+      { "name": "tomato", "quantity": "2, pureed" },
+      { "name": "garlic", "quantity": "4 cloves, minced" },
+      { "name": "ginger", "quantity": "1 inch, grated" },
+      { "name": "green chilli", "quantity": "2" },
+      { "name": "oil", "quantity": "3 tbsp" },
+      { "name": "salt", "quantity": "to taste" },
+      { "name": "turmeric", "quantity": "1/2 tsp" }
+    ],
+    "instructions": [
+      "Heat oil and saute onion until golden brown.",
+      "Add garlic, ginger and green chilli, cook 1 minute.",
+      "Add tomato puree and turmeric, cook until oil separates.",
+      "Add chicken pieces and sear on all sides.",
+      "Add salt and water as needed, cover and simmer 25 minutes.",
+      "Serve hot with rice."
+    ]
+  },
+  {
+    "id": "apple-yogurt-bowl",
+    "name": "Apple Cinnamon Yogurt Bowl",
+    "emoji": "🍎",
+    "diet": "vegetarian",
+    "meal_type": "breakfast",
+    "calories": 180,
+    "time_minutes": 5,
+    "servings": 1,
+    "short_description": "A refreshing no-cook breakfast bowl.",
+    "ingredients": [
+      { "name": "apple", "quantity": "1, diced" },
+      { "name": "yogurt", "quantity": "1 cup" }
+    ],
+    "instructions": [
+      "Dice the apple into small cubes.",
+      "Spoon yogurt into a bowl.",
+      "Top with diced apple and serve chilled."
+    ]
+  },
+  {
+    "id": "corn-carrot-salad",
+    "name": "Sweet Corn Carrot Salad",
+    "emoji": "🌽",
+    "diet": "vegetarian",
+    "meal_type": "snack",
+    "calories": 150,
+    "time_minutes": 10,
+    "servings": 2,
+    "short_description": "A crunchy, refreshing salad perfect as a light snack.",
+    "ingredients": [
+      { "name": "corn", "quantity": "1 cup, boiled" },
+      { "name": "carrot", "quantity": "1, grated" },
+      { "name": "onion", "quantity": "2 tbsp, finely chopped" },
+      { "name": "green chilli", "quantity": "1, minced" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Combine corn, carrot and onion in a bowl.",
+      "Add green chilli and salt.",
+      "Toss well and serve chilled."
+    ]
+  },
+  {
+    "id": "egg-fried-rice",
+    "name": "Egg Fried Rice",
+    "emoji": "🍚",
+    "diet": "eggetarian",
+    "meal_type": "dinner",
+    "calories": 400,
+    "time_minutes": 18,
+    "servings": 2,
+    "short_description": "Everyday fried rice with scrambled egg and vegetables.",
+    "ingredients": [
+      { "name": "rice", "quantity": "2 cups, cooked" },
+      { "name": "eggs", "quantity": "2" },
+      { "name": "carrot", "quantity": "1, diced" },
+      { "name": "onion", "quantity": "1, chopped" },
+      { "name": "garlic", "quantity": "2 cloves, minced" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Scramble eggs in hot oil, set aside.",
+      "In the same pan, saute garlic, onion and carrot.",
+      "Add cooked rice and salt, toss well.",
+      "Fold in scrambled eggs.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "chicken-sandwich",
+    "name": "Grilled Chicken Sandwich",
+    "emoji": "🥪",
+    "diet": "non-vegetarian",
+    "meal_type": "snack",
+    "calories": 350,
+    "time_minutes": 20,
+    "servings": 1,
+    "short_description": "A hearty grilled sandwich with juicy chicken and cheese.",
+    "ingredients": [
+      { "name": "chicken", "quantity": "150g, sliced" },
+      { "name": "bread", "quantity": "2 slices" },
+      { "name": "cheese", "quantity": "1 slice" },
+      { "name": "onion", "quantity": "2 tbsp, sliced" },
+      { "name": "oil", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Season and pan-sear chicken until cooked through, about 8 minutes.",
+      "Assemble bread with chicken, cheese and onion.",
+      "Grill the sandwich until bread is golden and cheese melts.",
+      "Slice and serve warm."
+    ]
+  },
+  {
+    "id": "potato-sandwich",
+    "name": "Spiced Potato Sandwich",
+    "emoji": "🥔",
+    "diet": "vegetarian",
+    "meal_type": "snack",
+    "calories": 260,
+    "time_minutes": 15,
+    "servings": 1,
+    "short_description": "Toasted sandwich with a spiced mashed potato filling.",
+    "ingredients": [
+      { "name": "potato", "quantity": "2 medium, boiled" },
+      { "name": "bread", "quantity": "2 slices" },
+      { "name": "onion", "quantity": "2 tbsp, chopped" },
+      { "name": "green chilli", "quantity": "1, minced" },
+      { "name": "oil", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Mash boiled potatoes with onion, chilli and salt.",
+      "Spread the mixture onto bread slices.",
+      "Toast on a pan with a little oil until golden.",
+      "Slice and serve hot."
+    ]
+  },
+  {
+    "id": "chicken-fried-rice",
+    "name": "Chicken Fried Rice",
+    "emoji": "🍗",
+    "diet": "non-vegetarian",
+    "meal_type": "dinner",
+    "calories": 430,
+    "time_minutes": 22,
+    "servings": 2,
+    "short_description": "Restaurant-style fried rice with tender chicken pieces.",
+    "ingredients": [
+      { "name": "chicken", "quantity": "250g, diced" },
+      { "name": "rice", "quantity": "2 cups, cooked" },
+      { "name": "carrot", "quantity": "1, diced" },
+      { "name": "onion", "quantity": "1, chopped" },
+      { "name": "garlic", "quantity": "2 cloves, minced" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Cook chicken in hot oil until browned, about 7 minutes.",
+      "Add garlic, onion and carrot, stir fry 4 minutes.",
+      "Add cooked rice and salt, toss thoroughly.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "vegetable-poha",
+    "name": "Vegetable Poha",
+    "emoji": "🍚",
+    "diet": "vegetarian",
+    "meal_type": "breakfast",
+    "calories": 250,
+    "time_minutes": 15,
+    "servings": 2,
+    "short_description": "Light and fluffy flattened rice with peas, onion and spices.",
+    "ingredients": [
+      { "name": "rice", "quantity": "2 cups flattened (poha)" },
+      { "name": "onion", "quantity": "1, chopped" },
+      { "name": "green chilli", "quantity": "1, minced" },
+      { "name": "carrot", "quantity": "1/2, diced" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "salt", "quantity": "to taste" },
+      { "name": "turmeric", "quantity": "1/4 tsp" }
+    ],
+    "instructions": [
+      "Rinse flattened rice and drain well.",
+      "Heat oil, add onion and green chilli, saute until soft.",
+      "Add carrot and turmeric, cook 3 minutes.",
+      "Fold in the flattened rice and salt gently.",
+      "Cook 3-4 minutes and serve hot."
+    ]
+  },
+  {
+    "id": "egg-curry",
+    "name": "Egg Curry",
+    "emoji": "🥚",
+    "diet": "eggetarian",
+    "meal_type": "lunch",
+    "calories": 340,
+    "time_minutes": 30,
+    "servings": 2,
+    "short_description": "Boiled eggs simmered in a spiced onion-tomato gravy.",
+    "ingredients": [
+      { "name": "eggs", "quantity": "4, boiled" },
+      { "name": "onion", "quantity": "2, sliced" },
+      { "name": "tomato", "quantity": "2, pureed" },
+      { "name": "garlic", "quantity": "3 cloves, minced" },
+      { "name": "ginger", "quantity": "1 inch, grated" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "salt", "quantity": "to taste" },
+      { "name": "turmeric", "quantity": "1/2 tsp" }
+    ],
+    "instructions": [
+      "Heat oil and saute onion until golden.",
+      "Add garlic and ginger, cook 1 minute.",
+      "Add tomato puree and turmeric, cook until oil separates.",
+      "Add boiled eggs (halved) and salt.",
+      "Simmer 10 minutes and serve with rice or roti."
+    ]
+  },
+  {
+    "id": "garlic-bread",
+    "name": "Classic Garlic Bread",
+    "emoji": "🍞",
+    "diet": "vegetarian",
+    "meal_type": "snack",
+    "calories": 220,
+    "time_minutes": 12,
+    "servings": 2,
+    "short_description": "Buttery, garlicky toasted bread.",
+    "ingredients": [
+      { "name": "bread", "quantity": "4 slices" },
+      { "name": "garlic", "quantity": "3 cloves, minced" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Mix minced garlic with oil and salt.",
+      "Spread onto bread slices.",
+      "Toast in a pan or oven until crisp and golden.",
+      "Serve warm."
+    ]
+  },
+  {
+    "id": "carrot-soup",
+    "name": "Creamy Carrot Soup",
+    "emoji": "🥕",
+    "diet": "vegetarian",
+    "meal_type": "dinner",
+    "calories": 190,
+    "time_minutes": 25,
+    "servings": 2,
+    "short_description": "Silky soup made from carrots and aromatics, finished with milk.",
+    "ingredients": [
+      { "name": "carrot", "quantity": "4, chopped" },
+      { "name": "onion", "quantity": "1, chopped" },
+      { "name": "garlic", "quantity": "2 cloves, minced" },
+      { "name": "milk", "quantity": "1/2 cup" },
+      { "name": "oil", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Saute onion and garlic in oil until soft.",
+      "Add carrot and enough water to cover, simmer 15 minutes until tender.",
+      "Blend until smooth.",
+      "Stir in milk and salt, reheat gently.",
+      "Serve warm."
+    ]
+  },
+  {
+    "id": "chicken-soup",
+    "name": "Simple Chicken Soup",
+    "emoji": "🍲",
+    "diet": "non-vegetarian",
+    "meal_type": "dinner",
+    "calories": 300,
+    "time_minutes": 35,
+    "servings": 2,
+    "short_description": "A soothing broth-based chicken soup with vegetables.",
+    "ingredients": [
+      { "name": "chicken", "quantity": "300g" },
+      { "name": "carrot", "quantity": "1, diced" },
+      { "name": "onion", "quantity": "1, chopped" },
+      { "name": "garlic", "quantity": "3 cloves, minced" },
+      { "name": "ginger", "quantity": "1 inch, grated" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Combine chicken, garlic, ginger and water in a pot.",
+      "Simmer 20 minutes until chicken is cooked through.",
+      "Remove chicken, shred, and return to pot.",
+      "Add onion and carrot, simmer 10 more minutes.",
+      "Season with salt and serve hot."
+    ]
+  },
+  {
+    "id": "tomato-rice",
+    "name": "Tangy Tomato Rice",
+    "emoji": "🍚",
+    "diet": "vegetarian",
+    "meal_type": "lunch",
+    "calories": 310,
+    "time_minutes": 20,
+    "servings": 2,
+    "short_description": "Zesty one-pot rice cooked with tomato and spices.",
+    "ingredients": [
+      { "name": "rice", "quantity": "2 cups, cooked" },
+      { "name": "tomato", "quantity": "3, pureed" },
+      { "name": "onion", "quantity": "1, chopped" },
+      { "name": "garlic", "quantity": "2 cloves, minced" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Heat oil, saute onion and garlic until golden.",
+      "Add tomato puree and cook until thickened.",
+      "Fold in cooked rice and salt.",
+      "Cook 5 minutes, stirring gently, and serve."
+    ]
+  },
+  {
+    "id": "banana-pancakes",
+    "name": "Banana Pancakes",
+    "emoji": "🥞",
+    "diet": "vegetarian",
+    "meal_type": "breakfast",
+    "calories": 320,
+    "time_minutes": 20,
+    "servings": 2,
+    "short_description": "Fluffy pancakes made naturally sweet with ripe banana.",
+    "ingredients": [
+      { "name": "banana", "quantity": "2, mashed" },
+      { "name": "flour", "quantity": "1 cup" },
+      { "name": "milk", "quantity": "3/4 cup" },
+      { "name": "eggs", "quantity": "1" },
+      { "name": "oil", "quantity": "1 tbsp" }
+    ],
+    "instructions": [
+      "Whisk mashed banana, milk and egg together.",
+      "Fold in flour until just combined.",
+      "Heat a lightly oiled pan and pour batter in rounds.",
+      "Cook until bubbles form, flip and cook other side.",
+      "Serve warm."
+    ]
+  },
+  {
+    "id": "spinach-lentil-dal",
+    "name": "Spinach Lentil Dal",
+    "emoji": "🥬",
+    "diet": "vegetarian",
+    "meal_type": "dinner",
+    "calories": 300,
+    "time_minutes": 30,
+    "servings": 3,
+    "short_description": "Nutritious lentils cooked with spinach and warming spices.",
+    "ingredients": [
+      { "name": "lentils", "quantity": "1 cup" },
+      { "name": "spinach", "quantity": "1 cup, chopped" },
+      { "name": "onion", "quantity": "1, chopped" },
+      { "name": "tomato", "quantity": "1, chopped" },
+      { "name": "garlic", "quantity": "3 cloves, minced" },
+      { "name": "cumin seeds", "quantity": "1 tsp" },
+      { "name": "oil", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Boil lentils until soft, about 15 minutes.",
+      "Heat oil, splutter cumin seeds, add garlic and onion.",
+      "Add tomato, cook until soft.",
+      "Stir in spinach until wilted.",
+      "Combine with cooked lentils, season with salt, simmer 5 minutes."
+    ]
+  },
+  {
+    "id": "yogurt-cucumber-raita",
+    "name": "Yogurt Salad Bowl",
+    "emoji": "🥣",
+    "diet": "vegetarian",
+    "meal_type": "snack",
+    "calories": 120,
+    "time_minutes": 8,
+    "servings": 2,
+    "short_description": "Cool and light yogurt bowl with crunchy vegetables.",
+    "ingredients": [
+      { "name": "yogurt", "quantity": "1 cup" },
+      { "name": "onion", "quantity": "2 tbsp, finely chopped" },
+      { "name": "tomato", "quantity": "1, diced" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Whisk yogurt until smooth.",
+      "Fold in chopped onion and tomato.",
+      "Season with salt and chill before serving."
+    ]
+  },
+  {
+    "id": "chicken-tikka-bowl",
+    "name": "Chicken Tikka Bowl",
+    "emoji": "🍗",
+    "diet": "non-vegetarian",
+    "meal_type": "lunch",
+    "calories": 420,
+    "time_minutes": 35,
+    "servings": 2,
+    "short_description": "Grilled spiced chicken served over rice with yogurt.",
+    "ingredients": [
+      { "name": "chicken", "quantity": "300g, cubed" },
+      { "name": "yogurt", "quantity": "1/2 cup" },
+      { "name": "garlic", "quantity": "3 cloves, minced" },
+      { "name": "ginger", "quantity": "1 inch, grated" },
+      { "name": "rice", "quantity": "1.5 cups, cooked" },
+      { "name": "oil", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Marinate chicken in yogurt, garlic, ginger and salt for 20 minutes.",
+      "Pan-sear or grill chicken until charred and cooked through.",
+      "Serve over cooked rice."
+    ]
+  },
+  {
+    "id": "flour-tortilla-wrap",
+    "name": "Veggie Flour Wrap",
+    "emoji": "🌯",
+    "diet": "vegetarian",
+    "meal_type": "snack",
+    "calories": 280,
+    "time_minutes": 20,
+    "servings": 2,
+    "short_description": "Soft homemade flour wraps filled with spiced vegetables.",
+    "ingredients": [
+      { "name": "flour", "quantity": "1.5 cups" },
+      { "name": "potato", "quantity": "2, boiled and mashed" },
+      { "name": "onion", "quantity": "1, chopped" },
+      { "name": "green chilli", "quantity": "1, minced" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Knead flour with water and a little oil into a soft dough.",
+      "Roll into thin rounds and cook on a hot pan until lightly browned.",
+      "Mix mashed potato with onion, chilli and salt.",
+      "Fill each wrap with the potato mixture and roll up.",
+      "Serve warm."
+    ]
+  },
+  {
+    "id": "egg-sandwich",
+    "name": "Classic Egg Sandwich",
+    "emoji": "🥪",
+    "diet": "eggetarian",
+    "meal_type": "snack",
+    "calories": 270,
+    "time_minutes": 12,
+    "servings": 1,
+    "short_description": "A simple, satisfying boiled egg sandwich.",
+    "ingredients": [
+      { "name": "eggs", "quantity": "2, boiled" },
+      { "name": "bread", "quantity": "2 slices" },
+      { "name": "onion", "quantity": "2 tbsp, chopped" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Mash boiled eggs with onion and salt.",
+      "Spread the mixture between bread slices.",
+      "Slice and serve."
+    ]
+  },
+  {
+    "id": "corn-cheese-toast",
+    "name": "Corn Cheese Toast",
+    "emoji": "🌽",
+    "diet": "vegetarian",
+    "meal_type": "snack",
+    "calories": 250,
+    "time_minutes": 12,
+    "servings": 2,
+    "short_description": "Toasted bread topped with sweet corn and melted cheese.",
+    "ingredients": [
+      { "name": "corn", "quantity": "1/2 cup, boiled" },
+      { "name": "cheese", "quantity": "1/2 cup, grated" },
+      { "name": "bread", "quantity": "4 slices" },
+      { "name": "onion", "quantity": "2 tbsp, chopped" }
+    ],
+    "instructions": [
+      "Mix corn, cheese and onion in a bowl.",
+      "Spread the mixture on bread slices.",
+      "Toast or bake until cheese melts and bread crisps.",
+      "Serve warm."
+    ]
+  },
+  {
+    "id": "ginger-garlic-rice",
+    "name": "Ginger Garlic Fried Rice",
+    "emoji": "🍚",
+    "diet": "vegetarian",
+    "meal_type": "dinner",
+    "calories": 340,
+    "time_minutes": 15,
+    "servings": 2,
+    "short_description": "Aromatic fried rice fragrant with ginger and garlic.",
+    "ingredients": [
+      { "name": "rice", "quantity": "2 cups, cooked" },
+      { "name": "garlic", "quantity": "3 cloves, minced" },
+      { "name": "ginger", "quantity": "1 inch, minced" },
+      { "name": "onion", "quantity": "1, chopped" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Heat oil, saute ginger, garlic and onion until fragrant.",
+      "Add cooked rice and salt.",
+      "Toss well over high heat for 3-4 minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "chicken-omelette",
+    "name": "Chicken Keema Omelette",
+    "emoji": "🍳",
+    "diet": "non-vegetarian",
+    "meal_type": "breakfast",
+    "calories": 330,
+    "time_minutes": 20,
+    "servings": 1,
+    "short_description": "Protein-packed omelette with spiced minced chicken.",
+    "ingredients": [
+      { "name": "eggs", "quantity": "2" },
+      { "name": "chicken", "quantity": "100g, minced" },
+      { "name": "onion", "quantity": "2 tbsp, chopped" },
+      { "name": "green chilli", "quantity": "1, minced" },
+      { "name": "oil", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Cook minced chicken with onion and chilli until browned.",
+      "Whisk eggs with salt and pour over the chicken mixture.",
+      "Cook until the egg sets, folding once.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "potato-carrot-mash",
+    "name": "Buttery Potato Carrot Mash",
+    "emoji": "🥔",
+    "diet": "vegetarian",
+    "meal_type": "dinner",
+    "calories": 260,
+    "time_minutes": 25,
+    "servings": 2,
+    "short_description": "A creamy, comforting mash of potato and carrot.",
+    "ingredients": [
+      { "name": "potato", "quantity": "3, chopped" },
+      { "name": "carrot", "quantity": "2, chopped" },
+      { "name": "milk", "quantity": "1/4 cup" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Boil potato and carrot until tender, about 15 minutes.",
+      "Drain and mash with milk and salt.",
+      "Serve warm."
+    ]
+  },
+  {
+    "id": "apple-oats-bowl",
+    "name": "Apple Milk Oats Bowl",
+    "emoji": "🍎",
+    "diet": "vegetarian",
+    "meal_type": "breakfast",
+    "calories": 230,
+    "time_minutes": 10,
+    "servings": 1,
+    "short_description": "Warm, wholesome oats simmered with milk and apple.",
+    "ingredients": [
+      { "name": "apple", "quantity": "1, diced" },
+      { "name": "milk", "quantity": "1 cup" },
+      { "name": "flour", "quantity": "2 tbsp oats" }
+    ],
+    "instructions": [
+      "Simmer milk gently in a saucepan.",
+      "Stir in oats and cook until thickened, about 5 minutes.",
+      "Fold in diced apple.",
+      "Serve warm."
+    ]
+  },
+  {
+    "id": "egg-tomato-curry",
+    "name": "Egg Tomato Curry",
+    "emoji": "🥚",
+    "diet": "eggetarian",
+    "meal_type": "dinner",
+    "calories": 310,
+    "time_minutes": 25,
+    "servings": 2,
+    "short_description": "Boiled eggs in a light, tangy tomato curry.",
+    "ingredients": [
+      { "name": "eggs", "quantity": "4, boiled" },
+      { "name": "tomato", "quantity": "3, chopped" },
+      { "name": "onion", "quantity": "1, chopped" },
+      { "name": "garlic", "quantity": "2 cloves, minced" },
+      { "name": "oil", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "to taste" }
+    ],
+    "instructions": [
+      "Heat oil, saute onion and garlic until soft.",
+      "Add tomato and cook until pulpy.",
+      "Add halved boiled eggs and salt.",
+      "Simmer 8 minutes and serve."
+    ]
+  }
+]
